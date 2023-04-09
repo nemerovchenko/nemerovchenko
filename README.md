@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zhenya</h1>
-<h3 align="center">A passionate creative developing and design from Ukraine</h3>
+<h3 align="center">I am passionate about creative development and design from Ukraine</h3>
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [https://easydeasy.agency](easydeasy.agency)
+- 👨‍💻 All of my projects are available at **https://easydeasy.agency**
 
 - 📫 How to reach me **nemerov4enko@gmail.com**
 
