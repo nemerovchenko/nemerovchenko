@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [easydeasy.agency](easydeasy.agency)
+- 👨‍💻 All of my projects are available at [https;//easydeasy.agency](easydeasy.agency)
 
 - 📫 How to reach me **nemerov4enko@gmail.com**
 
