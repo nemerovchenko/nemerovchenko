@@ -1,5 +1,5 @@
 <h2 align="auto">PORTFOLIO</h3>
-<a href="https://easydeasy.agency" target="_blank">easydeasy.agency</a>
+<a href="" target="_blank"></a>
 <h2 align="auto">MAIL</h3>
 <a href="mailto:nemerov4enko@gmail.com" target="_blank">nemerov4enko@gmail.com</a>
 <h2 align="auto">SOCIAL</h3>
